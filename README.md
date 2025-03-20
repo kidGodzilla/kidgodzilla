@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm James, an indie founder based in ~~Seattle~~ Taipei.
 
-My company, Meeting Room 365, helps keep your office running smoothly as your company grows.
+My company, [Meeting Room 365](https://www.meetingroom365.com/), helps keep your office running smoothly as your company grows.
 
-Previously Design & Prototyping @HBO, and Analytics @Adobe.
+Previously Design & Prototyping [@HBO](https://www.hbo.com/), and Analytics [@Adobe](https://www.adobe.com/).
 
 <!--
 **kidGodzilla/kidgodzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
