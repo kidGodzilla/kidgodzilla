@@ -1,4 +1,4 @@
-## 👋 Hi, I'm James, an indie founder based in ~~Seattle~~ Taipei.
+## 👋 Hi, I'm [James](https://www.jamesfuthey.com/), an indie founder based in ~~Seattle~~ Taipei.
 
 My company, [Meeting Room 365](https://www.meetingroom365.com/), helps keep your office running smoothly as your company grows.
 
